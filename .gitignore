@@ -1,3 +1,5 @@
 .vagrant/
+*.zip
+*.deb
 *.swp
 *.box
